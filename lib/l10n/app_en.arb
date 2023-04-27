@@ -1,0 +1,23 @@
+{
+    "tasks": "Tasks",
+    "addTask": "Add task",
+    "settings": "Settings",
+    "task": "Task",
+    "description": "Description",
+    "add": "Add",
+    "task_not_be_empty": "Task not be empty",
+    "mode": "Mode",
+    "night": "Night",
+    "day": "Day",
+    "language": "Language",
+    "english": "English",
+    "uzbek": "O'zbek",
+    "russian": "Русский",
+    "delete_task": "Delete task?",
+    "yes": "Yes",
+    "no": "No",
+    "edit_task": "Edit task",
+    "save": "Save",
+    "changes": "Don't need to save changes?",
+    "adding": "Don't want to add a task?"
+}

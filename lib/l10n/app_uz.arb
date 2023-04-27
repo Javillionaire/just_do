@@ -1,0 +1,24 @@
+{
+    "tasks": "Vazifalar",
+    "addTask": "Vazifa qo'shish",
+    "settings": "Sozlamalar",
+    "task": "Vazifa",
+    "description": "Tavsif",
+    "add": "Qo'shish",
+    "task_not_be_empty": "Vazifa bo'sh bo'lmasligi kerak",
+    "mode": "Rejim",
+    "night": "Tungi",
+    "day": "Kunduzgi",
+    "language": "Til",
+    "english": "English",
+    "uzbek": "O'zbek",
+    "russian": "Русский",
+    "delete_task": "Vazifani o'chirish?",
+    "yes": "Ha",
+    "no": "Yo'q",
+    "edit_task": "Vazifani tahrirlash",
+    "save": "Saqlash",
+    "changes": "O'zgarishlarni saqlash shart emasmi?",
+    "adding": "Vazifani qo'shmaysizmi?"
+
+}
